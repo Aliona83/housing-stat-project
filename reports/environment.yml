@@ -1,0 +1,12 @@
+name: housing-stat
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - jupyter
+  - ipykernel
