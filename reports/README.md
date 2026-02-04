@@ -79,17 +79,23 @@ Before using any statistical methods, it is important to first look at the data 
 
 The goal of this stage is not to build models, but to **prepare the data and improve my understanding** before moving on to statistical tests and linear regression.
 
+
+
 ---
+### Stage 3 — Statistical Inference
 
-## Stage 3 — Statistical Inference (planned)
-This stage introduces **formal statistical reasoning and uncertainty**.
+In this stage, basic statistical inference is introduced to better understand uncertainty in house prices.  
+The goal is not to build complex models, but to start reasoning about differences between groups using data.
 
-Planned analyses:
-- Formulate statistical hypotheses related to house prices
-- Compare groups (e.g. houses with vs without a garage)
-- Use confidence intervals to quantify uncertainty
-- Apply hypothesis testing and interpret p-values carefully
-- Emphasize interpretation over mechanical testing
+Simple questions are explored, such as comparing house prices for different property features (for example, houses with a garage versus houses without a garage).
+
+This stage focuses on:
+- defining clear questions and hypotheses
+- comparing groups using summary statistics
+- understanding variability and uncertainty
+- interpreting results carefully rather than relying only on numbers
+
+Statistical inference is used here as a tool to support reasoning about the data before moving on to regression models.
 
 ---
 
